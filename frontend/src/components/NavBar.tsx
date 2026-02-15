@@ -8,7 +8,7 @@ const NavBar = () => {
         <Box display="flex" alignItems="center" gap={1} flex={1}>
           <Box
             component="img"
-            src="/logo.svg"
+            src={`${import.meta.env.BASE_URL}/logo.svg`}
             alt="Logo"
             sx={{ width: 48, height: 48 }}
           />

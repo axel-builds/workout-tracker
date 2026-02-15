@@ -13,7 +13,7 @@ function App() {
   });
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/workout-tracker/">
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <AppRoutes />
