@@ -9,6 +9,7 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/workout-tracker/',
   server: {
     host: '0.0.0.0',
     proxy: {
