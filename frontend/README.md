@@ -1,4 +1,4 @@
-# Gym Track
+# Workout Tracker Frontend
 
 ### Getting Started
 
